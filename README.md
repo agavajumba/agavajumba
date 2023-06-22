@@ -6,7 +6,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agava-jumba-3b8500192/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:awendyrobin406@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/Robin)
+[![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/iamceobitch23)
 [![Whatsapp](https://img.shields.io/badge/-WhatsApp-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://wa.me/send?phone=254799654178)
 
 
